@@ -59,6 +59,52 @@ The circuit converts a 230V AC input into a stable 12V DC output through a step-
 
 ---
 
+## Measurements
+
+The following measurements were taken during the Multisim simulation.
+
+### Load Resistance = 1 kΩ
+#### Input Voltage
+![](1k_input_voltage.png)
+
+#### Output Voltage
+![](1k_output_voltage.png)
+
+#### Load Current
+![](1k_load_current.png)
+
+#### LED Current
+![](1k_led_current.png)
+
+### Load Resistance = 470 Ω
+#### Input Voltage
+![](470_input_voltage.png)
+
+#### Output Voltage
+![](470_output_voltage.png)
+
+#### Load Current
+![](470_load_current.png)
+
+#### LED Current
+![](470_led_current.png)
+
+### Load Resistance = 220 Ω
+#### Input Voltage
+![](220_input_voltage.png)
+
+#### Output Voltage
+![](220_output_voltage.png)
+
+#### Load Current
+![](220_load_current.png)
+
+#### LED Current
+![](220_led_current.png)
+All screenshots are available in the **Measurements** folder.
+
+---
+
 ## Conclusion
 
 The simulation demonstrates that the LM7812 voltage regulator maintains an output voltage close to 12V while supplying different load currents. As the load resistance decreases, the load current increases, while the regulator continues to provide a stable output suitable for low-power DC applications.
