@@ -65,42 +65,42 @@ The following measurements were taken during the Multisim simulation.
 
 ### Load Resistance = 1 kΩ
 #### Input Voltage
-![](1k_input_voltage.png)
+![](Measurements/1k_input_voltage.png)
 
 #### Output Voltage
-![](1k_output_voltage.png)
+![](Measurements/1k_output_voltage.png)
 
 #### Load Current
-![](1k_load_current.png)
+![](Measurements/1k_load_current.png)
 
 #### LED Current
-![](1k_led_current.png)
+![](Measurements/1k_led_current.png)
 
 ### Load Resistance = 470 Ω
 #### Input Voltage
-![](470_input_voltage.png)
+![](Measurements/470_input_voltage.png)
 
 #### Output Voltage
-![](470_output_voltage.png)
+![](Measurements/470_output_voltage.png)
 
 #### Load Current
-![](470_load_current.png)
+![](Measurements/470_load_current.png)
 
 #### LED Current
-![](470_led_current.png)
+![](Measurements/470_led_current.png)
 
 ### Load Resistance = 220 Ω
 #### Input Voltage
-![](220_input_voltage.png)
+![](Measurements/220_input_voltage.png)
 
 #### Output Voltage
-![](220_output_voltage.png)
+![](Measurements/220_output_voltage.png)
 
 #### Load Current
-![](220_load_current.png)
+![](Measurements/220_load_current.png)
 
 #### LED Current
-![](220_led_current.png)
+![](Measurements/220_led_current.png)
 All screenshots are available in the **Measurements** folder.
 
 ---
